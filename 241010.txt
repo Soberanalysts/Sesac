@@ -1,0 +1,35 @@
+10/10
+
+SCM = 형상관리 도구
+-1세대/2세대/3세대(CVS/SVN/GIT)
+-Git이란? GitHub란?
+
+GIT 기능?
+형상관리, 브랜치관리, 협업
+
+GitHub?
+Git 저장소를 온라인으로 호스팅하고 협업을 위한 플랫폼을 제공
+기능 ?
+1. repo관리
+2. CI/CD
+
+
+대칭키 암호화?
+암호가 대칭인것(암호화와 복호화 같은 키씀)
+PSK (pre-shared key) 사전에 키를 공유
+
+공개키(PKI) => 공개키, 개인키로 구성되어 있다.
+RSA는 알고리즘명
+
+OSI 7 Layer
+- IP/IPX/ICMP/ARP
+- TCP/UDP
+
+git clone -->
+-HTTPS
+-SSH
+
+인증 (Authentication / 인가 = Autorization)
+-ID/PW, ID/Key
+-OpenID/SocialLogin/Oauth2
+
