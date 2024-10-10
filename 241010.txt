@@ -33,3 +33,5 @@ git clone -->
 -ID/PW, ID/Key
 -OpenID/SocialLogin/Oauth2
 
+short msg = 50글자 이하로 작성하는것을 권장
+
